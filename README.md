@@ -1,5 +1,7 @@
 # VM Traffic Monitor
 
+[**简体中文 🇨🇳**](README_cn.md) ｜ [**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](README_fa.md)
+
 This script monitors the remaining traffic of VMs on Vultr, DigitalOcean, and Linode. If the remaining traffic is zero, it shuts down the VM and sends a notification via Telegram.
 
 ## Features
