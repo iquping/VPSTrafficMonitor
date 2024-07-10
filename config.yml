@@ -1,0 +1,18 @@
+api_keys:
+  vultr: 'your_vultr_api_key'
+  digital_ocean: 'your_digital_ocean_api_key'
+  linode: 'your_linode_api_key'
+
+telegram:
+  token: 'your_telegram_bot_token'
+  chat_id: 'your_telegram_chat_id'
+
+api_urls:
+  vultr: 'https://api.vultr.com/v2/account'
+  digital_ocean: 'https://api.digitalocean.com/v2/droplets'
+  linode: 'https://api.linode.com/v4/account/settings'
+
+instance_ids:
+  vultr: ['instance_id_1', 'instance_id_2']
+  digital_ocean: ['instance_id_1', 'instance_id_2']
+  linode: ['instance_id_1', 'instance_id_2']
